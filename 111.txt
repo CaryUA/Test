@@ -1,7 +1,6 @@
 555555555555555
 77777777777777
 new
-<<<<<<< HEAD
 
 branch
 add new text
@@ -14,4 +13,4 @@ test
 master
 
 test
->>>>>>> master
+
